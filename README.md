@@ -4,14 +4,14 @@
 
 The SIEM & Honeypot project aimed to Utilize Azure Sentinel (SIEM) to get Logs from Honeypot & Visualise Malicious Log-in attempts coming from different locations in a World map.
 
-### Skills Learned
+## Skills Learned
 
 - Deploying a Honeypot virtual machine to attract and analyze attacks.
 - Setting up Azure Sentinel (SIEM) to collect logs from the Honeypot for comprehensive threat monitoring.
 - Utilizing KQL to write queries.
 - Visualizing logs in Workbook (Map format) to discern the origins of attacks on the Honeypot.
 
-### Tools Used
+## Tools Used
 
 - Security Information and Event Management (SIEM) system for log ingestion and Visualization.
 - Honeypot to attract malicious attackers.
