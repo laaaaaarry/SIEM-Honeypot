@@ -76,7 +76,7 @@ The SIEM & Honeypot project aimed to Utilize Azure Sentinel (SIEM) to get Logs f
 ![Screenshot 2024-03-05 044726](https://github.com/laaaaaarry/SIEM-Honeypot/assets/125237930/0e703048-f78d-4c62-8da9-1991f0125664)
 
 
-**11. Select numeric data pf latitude & give it field name & type, also correct the sample field if needed**
+**11. Select numeric data of latitude & give it field name & type, also correct the sample field if needed**
 
 ![Screenshot 2024-03-05 044921](https://github.com/laaaaaarry/SIEM-Honeypot/assets/125237930/8674a31b-0a7c-4b4f-9b17-5311d2fc9248)
 ![Screenshot 2024-03-05 045038](https://github.com/laaaaaarry/SIEM-Honeypot/assets/125237930/e87e7f84-1c0b-4545-83ed-e0175e31b05d)
@@ -104,5 +104,6 @@ The SIEM & Honeypot project aimed to Utilize Azure Sentinel (SIEM) to get Logs f
 
 
 ## Conclusion : 
-- In this lab, we learned to setup a honeypot, configure Azure Sentinel to collect & visualize Logs in Map format.
+- In this lab, we learned to setup a honeypot to attract attackers.
+- To configure Azure Sentinel to collect & visualize Logs in Map format.
 - We encountered around 20000+ logon attempts in this lab.
